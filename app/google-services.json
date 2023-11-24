@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "442190924079",
+    "project_id": "inventario-cf5f8",
+    "storage_bucket": "inventario-cf5f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442190924079:android:778bb32455aa4edd1bf9da",
+        "android_client_info": {
+          "package_name": "com.example.inventario"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9I6fO3awPOCnY79-dsi2I9_BzEAklTFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
